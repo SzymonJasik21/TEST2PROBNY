@@ -11,5 +11,5 @@ h1 { text-align: center; }
 #ol1 { border: 1px solid black; }
 .dane td { border: 1px solid gray; }
 .dane thead { background-color: black; color: white; }
-.green-button { background-color: green; }
+.green-button { background-color: orange; }
 #name, #surname { background-color: orange; }
