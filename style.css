@@ -1,0 +1,23 @@
+.index nav{text-align: right;}
+.index .tytul{ text-align: center;color: green;}
+.index .text {text-align: justify;width: 100%;
+font-family: Arial, Helvetica, sans-serif;margin:20px }
+.index .columns{display: flex;flex-direction:row;}
+.index .links a:hover{background-color: aqua;}
+img{width: 500px; height: 500px; padding: 10px; border: 4px solid rgb(90, 79, 79);margin:1cm}
+ h1{text-align: center;}
+ .container{display:flex    }
+ .container div {
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 20px;
+  font-size: 24px;
+}
+.style h1{text-align: center; 
+}
+#ol1{border:1px solid black}
+.dane td{border:1px solid gray}
+.dane thead{background-color: black;color: white;}
+.green-button{background-color: green;}
+#name{background-color: blue;}
+#surname{background-color: blue;}
