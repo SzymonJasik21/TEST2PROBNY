@@ -12,4 +12,4 @@ h1 { text-align: center; }
 .dane td { border: 1px solid gray; }
 .dane thead { background-color: black; color: white; }
 .green-button { background-color: green; }
-#name, #surname { background-color: blue; }
+#name, #surname { background-color: orange; }
